@@ -11,21 +11,17 @@ namespace ResolucaoEx03
         static void Main(string[] args)
         {
             Console.WriteLine("Informe o seu nome: ");
-            String nome = Console.ReadLine();
+            String nome = Console.ReadLine().ToLower();
             int y = 0;
             int z = 0;
 
-            for (int i = 0; i == nome.Length - 1; i++)
+            for (int i = 0; i <= nome.Length - 1; i++)
             {
-                if (nome.Substring(i) == "a" || nome.Substring(i) == "e" || nome.Substring(i) == "i"
-                    || nome.Substring(i) == "o" || nome.Substring(i) == "u")
-                {
+                if (nome[i].Equals('a') || nome[i].Equals('e') || nome[i].Equals('i')
+                    || nome[i].Equals('o') || nome[i].Equals('u'))
                     y++;
-                }
                 else
-                {
                     z++;
-                }     
             }
             Console.WriteLine($"Existe(m) {y} vogal(is) da palavra ({nome})");
             Console.WriteLine($"Existe(m) {z} consoante(s) da palavra ({nome})");

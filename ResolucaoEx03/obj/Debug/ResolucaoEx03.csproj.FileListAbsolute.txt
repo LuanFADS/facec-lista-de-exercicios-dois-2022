@@ -1,0 +1,8 @@
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\bin\Debug\ResolucaoEx03.exe.config
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\bin\Debug\ResolucaoEx03.exe
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\bin\Debug\ResolucaoEx03.pdb
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\obj\Debug\ResolucaoEx03.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\obj\Debug\ResolucaoEx03.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\obj\Debug\ResolucaoEx03.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\obj\Debug\ResolucaoEx03.exe
+C:\Users\facec.lab04\source\repos\facec-aula-exercicios02-09-03-2022\ResolucaoEx03\obj\Debug\ResolucaoEx03.pdb
